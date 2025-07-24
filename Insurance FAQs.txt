@@ -1,0 +1,28 @@
+Insurance FAQs
+
+#Use the insurance FAQ content as context
+faq_context = """
+Q: Explain the benefits included in the Gold Plan health insurance policy.
+A: The Gold Plan health insurance covers hospitalization expenses, pre and post-hospitalization costs, daycare procedures, and maternity benefits. It also includes annual health checkups and wellness rewards. Pre-existing conditions are covered after a two-year waiting period.
+
+Q: What are the exclusions in the Gold Plan health insurance?
+A: The Gold Plan excludes treatments related to cosmetic surgery, dental procedures (unless due to accidents), and injuries caused by self-harm or intoxication.
+
+Q: Summarize the Comprehensive Auto Insurance Plan.
+A: It includes third-party liability, own-damage coverage, and optional add-ons like zero depreciation and roadside assistance.
+
+Q: List the documents required for filing a motor insurance claim.
+A: FIR copy, RC book, driver’s license, filled claim form, and repair cost estimate.
+
+Q: Describe the benefits of the Secure Life Term Plan.
+A: Provides high sum assured, death benefits, critical illness and accidental death riders, income protection, and tax benefits under Sections 80C and 10(10D).
+
+Q: How does the life insurance claim process work?
+A: Submit claim form, policy document, death certificate, and ID proof. Claims are settled within 7–10 working days.
+
+Q: What is a deductible in insurance?
+A: A deductible is the amount the policyholder pays out of pocket before the insurer begins to pay.
+
+Q: Can I port my health insurance policy to another company?
+A: Yes, after at least one year of continuous coverage, as per IRDAI rules.
+"""
